@@ -7,7 +7,8 @@
 진행 과정 : [https://elite-vessel-28a.notion.site/33e2619573534fff9221340cbc041cb1?v=d5ff253962604f84953b985a0928aa18](https://www.notion.so/33e2619573534fff9221340cbc041cb1?v=d5ff253962604f84953b985a0928aa18&pvs=4)
 
 
-첫번째 메인 프로젝트 pdf : [공공 데이터 프젝.pdf](https://github.com/changsoon123/first_main_project/files/11718284/default.pdf)
+첫번째 메인 프로젝트 pdf : [공공 데이터 프로젝트.pdf](https://github.com/changsoon123/first_main_project/files/11718289/default.pdf)
+
 
 
 
